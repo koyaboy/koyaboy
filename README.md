@@ -21,7 +21,6 @@
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://adekoya-ireoluwatomiwa.vercel.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
@@ -79,7 +78,7 @@
 
 <a href="https://github.com/koyaboy/">
   <img src="https://github-readme-stats.vercel.app/api?username=koyaboy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=koyaboy&theme=dark&hide_border=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=koyaboy&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koyaboy&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
 </a>
