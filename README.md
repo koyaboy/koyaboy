@@ -20,6 +20,9 @@
 
 - A passionate Frontend Engineer
 - Productivity Coach for Software Engineers
+- 1+ year experience in building responsive and user-friendly web applications
+- Advocate for clean, maintainable, and well-documented code
+- Committed to continuous learning and staying updated with the latest industry trends
 - Personal website [link](https://adekoya-ireoluwatomiwa.vercel.app/)
 
 <br><br>
@@ -102,8 +105,8 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/ireoluwatomiwa-adekoya" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Koya-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -111,18 +114,11 @@
 
 <li>
 <a href="https://x.com/koyacodes" target="_blank">
-<img src="https://img.shields.io/badge/twitter: koyacodes-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter: Koya-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
+<br>	
 </ul>
 </div>
 
@@ -134,7 +130,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Life begins at the end of your comfort zone...✨</b>
 
 </div>
 <br>
