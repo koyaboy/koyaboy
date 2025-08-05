@@ -20,7 +20,7 @@
 
 - A passionate Frontend Engineer
 - Productivity Coach for Software Engineers
-- 1+ year experience in building responsive and user-friendly web applications
+- 2+ years experience in building responsive and user-friendly web applications
 - Advocate for clean, maintainable, and well-documented code
 - Committed to continuous learning and staying updated with the latest industry trends
 - Personal website [link](https://adekoya-ireoluwatomiwa.vercel.app/)
